@@ -1,9 +1,9 @@
+# Enterprise Platform Engineering & DevSecOps
 Contact & Profile
 GitHub: https://github.com/kunal-nordic27/kunal-nordic27
 Email: kashyapgi8957@gmail.com
 Target Markets:🌍🇩🇰🇫🇮🇸🇪 Denmark, Finland, Sweden, Europe
-# Enterprise Platform Engineering & DevSecOps
-
+Platform Engineering & DevSecOps
 Hands-on platform engineering repository focused on multi-cloud infrastructure, container orchestration, GitOps delivery, zero-trust security, observability, and internal developer platform (IDP) automation—validated by an automated GitHub Actions CI pipeline (`.github/workflows/platform-ci.yml`).
 
 ## Target Scope & Architecture Focus
@@ -56,7 +56,3 @@ Container image builds and Helm chart linting/rendering validation
 Workflow permissions, static analysis (Semgrep), vulnerability/misconfiguration scanning (Trivy), and signature verification hooks (Cosign / OIDC)
 Python syntax/test automation, Backstage catalog checks, and repository component structure
 Final pass gate (pipeline-gate) requiring all upstream checks to succeed
-Contact & Profile
-GitHub: https://github.com/kunal-nordic27/kunal-nordic27
-Email: kashyapgi8957@gmail.com
-Target Markets:🌍🇩🇰🇫🇮🇸🇪 Denmark, Finland, Sweden, Europe
