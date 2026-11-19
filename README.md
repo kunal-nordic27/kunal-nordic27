@@ -1,3 +1,7 @@
+Contact & Profile
+GitHub: https://github.com/kunal-nordic27/kunal-nordic27
+Email: kashyapgi8957@gmail.com
+Target Markets:🌍🇩🇰🇫🇮🇸🇪 Denmark, Finland, Sweden, Europe
 # Enterprise Platform Engineering & DevSecOps
 
 Hands-on platform engineering repository focused on multi-cloud infrastructure, container orchestration, GitOps delivery, zero-trust security, observability, and internal developer platform (IDP) automation—validated by an automated GitHub Actions CI pipeline (`.github/workflows/platform-ci.yml`).
